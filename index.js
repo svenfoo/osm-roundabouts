@@ -54,6 +54,3 @@ const map = new Map({
         zoom: 13
     })
 });
-
-console.log("Imported " + roundabouts.features + " from " + roundabouts.getUrl());
-console.log("Imported " + circulars.features + " from " + circulars.getUrl());
