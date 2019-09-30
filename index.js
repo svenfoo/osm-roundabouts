@@ -12,33 +12,34 @@ const mapLayer = new TileLayer({
     source: new OSM()
 });
 
-const jsonSource =  new VectorSource({
+const roundabouts =  new VectorSource({
     format: new GeoJSON(),
     url: './berlin-roundabouts.json'
 });
 
-const vectorLayer = new VectorLayer({
-    source: jsonSource,
-//    style: new Style({
-//        fill: new Fill({
-//            color: 'red'
-//        }),
-//        stroke: new Stroke({
-//            color: 'white'
-//        })
-//    })
+const circulars =  new VectorSource({
+    format: new GeoJSON(),
+    url: './berlin-circulars.json'
+});
+
+const roundaboutsLayer = new VectorLayer({
+    source: roundabouts,
+});
+                                  
+const circularsLayer = new VectorLayer({
+    source: circulars,
 });
                                   
 const berlin = olProj.fromLonLat([13.3882, 52.5171]);
 
 const map = new Map({
     target: 'map-container',
-    layers: [ mapLayer, vectorLayer ],
+    layers: [ mapLayer, roundaboutsLayer, circularsLayer],
     view: new View({
         center: berlin,
         zoom: 13
     })
 });
 
-console.log("Imported " + jsonSource.getFeaturesCollection() + " from " + jsonSource.getUrl());
-console.log(jsonSource.getState());
+console.log("Imported " + roundabouts.features + " from " + roundabouts.getUrl());
+console.log("Imported " + circulars.features + " from " + circulars.getUrl());

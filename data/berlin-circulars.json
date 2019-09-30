@@ -1,0 +1,1733 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2019-09-30T19:48:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4413638",
+        "bicycle": "no",
+        "foot": "use_sidepath",
+        "highway": "primary",
+        "junction": "circular",
+        "lanes": "6",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Großer Stern",
+        "note": "no roundabout: incoming traffic has priority, ring traffic has to give_way",
+        "oneway": "yes",
+        "placement": "middle_of:3",
+        "postal_code": "10785",
+        "ref": "B 2;B 5",
+        "surface": "asphalt",
+        "transit:lanes": "continue|continue|continue|continue;leave|leave|leave",
+        "turn:lanes": "through|through|through|through;slight_right|slight_right|slight_right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3505758,
+            52.5139589
+          ],
+          [
+            13.3506476,
+            52.5139845
+          ],
+          [
+            13.3507158,
+            52.5140136
+          ],
+          [
+            13.3507799,
+            52.5140459
+          ],
+          [
+            13.3508395,
+            52.5140812
+          ],
+          [
+            13.3508943,
+            52.5141193
+          ],
+          [
+            13.3509439,
+            52.51416
+          ],
+          [
+            13.350988,
+            52.514203
+          ],
+          [
+            13.3510262,
+            52.514248
+          ]
+        ]
+      },
+      "id": "way/4413638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4597427",
+        "highway": "residential",
+        "junction": "circular",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Barbarossaplatz",
+        "note": "this is not a roundabout !",
+        "oneway": "yes",
+        "postal_code": "10781",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3493164,
+            52.4923136
+          ],
+          [
+            13.3491615,
+            52.4923008
+          ],
+          [
+            13.3489906,
+            52.4922785
+          ],
+          [
+            13.3488592,
+            52.4922163
+          ],
+          [
+            13.3488448,
+            52.4921473
+          ],
+          [
+            13.3488436,
+            52.4921311
+          ],
+          [
+            13.3492563,
+            52.4918222
+          ],
+          [
+            13.3493248,
+            52.4918271
+          ],
+          [
+            13.3493892,
+            52.4918434
+          ],
+          [
+            13.349587,
+            52.4920403
+          ],
+          [
+            13.349609,
+            52.4920898
+          ],
+          [
+            13.3495745,
+            52.4921698
+          ],
+          [
+            13.3494468,
+            52.4922603
+          ],
+          [
+            13.3493164,
+            52.4923136
+          ]
+        ]
+      },
+      "id": "way/4597427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4612860",
+        "cycleway:right": "lane",
+        "highway": "secondary",
+        "junction": "circular",
+        "lanes": "2",
+        "level": "0",
+        "lit": "yes",
+        "loc_name": "Kotti",
+        "maxheight": "default",
+        "maxspeed": "50",
+        "name": "Kottbusser Tor",
+        "note": "Kein Kreisverkehr - Skalitzer Str. hat Vorfahrt",
+        "oneway": "yes",
+        "postal_code": "10999",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4178141,
+            52.4991513
+          ],
+          [
+            13.4177891,
+            52.4990761
+          ],
+          [
+            13.4177979,
+            52.4989996
+          ],
+          [
+            13.41784,
+            52.4989273
+          ],
+          [
+            13.4179123,
+            52.4988644
+          ],
+          [
+            13.4180096,
+            52.4988157
+          ]
+        ]
+      },
+      "id": "way/4612860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/22701543",
+        "highway": "residential",
+        "junction": "circular",
+        "lit": "yes",
+        "maxspeed": "30",
+        "noname": "yes",
+        "oneway": "yes",
+        "postal_code": "10999",
+        "surface": "cobblestone"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4164673,
+            52.4973005
+          ],
+          [
+            13.4164084,
+            52.4973035
+          ],
+          [
+            13.4163482,
+            52.4972854
+          ],
+          [
+            13.4163186,
+            52.4972589
+          ],
+          [
+            13.4163137,
+            52.4972168
+          ],
+          [
+            13.4163338,
+            52.4971902
+          ],
+          [
+            13.4163814,
+            52.4971672
+          ],
+          [
+            13.4164484,
+            52.4971623
+          ],
+          [
+            13.416514,
+            52.4971839
+          ],
+          [
+            13.4165377,
+            52.4972065
+          ],
+          [
+            13.4165434,
+            52.4972479
+          ],
+          [
+            13.4165221,
+            52.4972762
+          ],
+          [
+            13.4164673,
+            52.4973005
+          ]
+        ]
+      },
+      "id": "way/22701543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/22741808",
+        "bicycle": "yes",
+        "cycleway:right": "track",
+        "highway": "primary",
+        "junction": "circular",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "Bersarinplatz",
+        "note": "Kein Kreisverkehr - B96a hat Vorfahrt vor Ringverkehr",
+        "old_name:1895-1947": "Baltenplatz",
+        "oneway": "yes",
+        "postal_code": "10249",
+        "ref": "B 96a",
+        "surface": "asphalt",
+        "wikipedia": "de:Bersarinplatz"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4534601,
+            52.518241
+          ],
+          [
+            13.4535244,
+            52.5183156
+          ],
+          [
+            13.4536225,
+            52.5184558
+          ],
+          [
+            13.4537041,
+            52.518568
+          ],
+          [
+            13.453725,
+            52.5186292
+          ],
+          [
+            13.4537315,
+            52.5186978
+          ],
+          [
+            13.4537206,
+            52.5187442
+          ],
+          [
+            13.4536943,
+            52.5187969
+          ],
+          [
+            13.4536203,
+            52.5188736
+          ],
+          [
+            13.4535668,
+            52.5189074
+          ],
+          [
+            13.4534887,
+            52.5189428
+          ],
+          [
+            13.4533228,
+            52.5189844
+          ],
+          [
+            13.453239,
+            52.5189963
+          ]
+        ]
+      },
+      "id": "way/22741808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30194724",
+        "bicycle": "no",
+        "foot": "use_sidepath",
+        "highway": "primary",
+        "junction": "circular",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Großer Stern",
+        "note": "no roundabout: incoming traffic has priority, ring traffic has to give_way",
+        "oneway": "yes",
+        "placement": "middle_of:3",
+        "postal_code": "10557",
+        "ref": "B 2;B 5",
+        "surface": "asphalt",
+        "transit:lanes": "new_on_left:2|continue|continue|continue",
+        "turn:lanes": "through|through;slight_right|slight_right|slight_right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3498921,
+            52.5138962
+          ],
+          [
+            13.3500319,
+            52.5138857
+          ],
+          [
+            13.3501728,
+            52.5138868
+          ],
+          [
+            13.3503389,
+            52.5139012
+          ],
+          [
+            13.3504473,
+            52.5139238
+          ],
+          [
+            13.3505758,
+            52.5139589
+          ]
+        ]
+      },
+      "id": "way/30194724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30194725",
+        "bicycle": "no",
+        "foot": "use_sidepath",
+        "highway": "primary",
+        "junction": "circular",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Großer Stern",
+        "note": "no roundabout: incoming traffic has priority, ring traffic has to give_way",
+        "oneway": "yes",
+        "placement": "middle_of:3",
+        "postal_code": "10557",
+        "ref": "B 2;B 5",
+        "surface": "asphalt",
+        "transit:lanes": "new_on_left|continue|fork|continue",
+        "turn:lanes": "through|through|through;slight_right|slight_right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3509904,
+            52.5148236
+          ],
+          [
+            13.3509127,
+            52.5148955
+          ],
+          [
+            13.3508197,
+            52.5149603
+          ],
+          [
+            13.350713,
+            52.5150168
+          ],
+          [
+            13.3505946,
+            52.5150639
+          ],
+          [
+            13.3504668,
+            52.5151008
+          ]
+        ]
+      },
+      "id": "way/30194725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30194726",
+        "bicycle": "no",
+        "foot": "use_sidepath",
+        "highway": "primary",
+        "junction": "circular",
+        "lanes": "6",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Großer Stern",
+        "note": "no roundabout: incoming traffic has priority, ring traffic has to give_way",
+        "oneway": "yes",
+        "placement": "middle_of:3",
+        "postal_code": "10557",
+        "ref": "B 2;B 5",
+        "surface": "asphalt",
+        "transit:lanes": "fork|continue|continue|continue|leave|leave",
+        "turn:lanes": "through|through|through|through|slight_right|slight_right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3504668,
+            52.5151008
+          ],
+          [
+            13.3503421,
+            52.5151252
+          ],
+          [
+            13.3502132,
+            52.5151398
+          ],
+          [
+            13.3500824,
+            52.5151443
+          ],
+          [
+            13.3499517,
+            52.5151388
+          ],
+          [
+            13.3498232,
+            52.5151233
+          ],
+          [
+            13.3496989,
+            52.515098
+          ],
+          [
+            13.3495809,
+            52.5150633
+          ]
+        ]
+      },
+      "id": "way/30194726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30806884",
+        "bicycle": "no",
+        "foot": "no",
+        "highway": "primary",
+        "junction": "circular",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Großer Stern",
+        "note": "no roundabout: incoming traffic has priority, ring traffic has to give_way",
+        "oneway": "yes",
+        "placement": "middle_of:3",
+        "postal_code": "10557",
+        "surface": "asphalt",
+        "transit:lanes": "new_on_left|continue|continue|continue",
+        "turn:lanes": "through|through|through|through"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3490864,
+            52.5146715
+          ],
+          [
+            13.3490572,
+            52.5145665
+          ],
+          [
+            13.3490576,
+            52.5144601
+          ],
+          [
+            13.3490874,
+            52.5143552
+          ],
+          [
+            13.3491458,
+            52.5142548
+          ],
+          [
+            13.3492312,
+            52.5141619
+          ]
+        ]
+      },
+      "id": "way/30806884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30806885",
+        "bicycle": "no",
+        "foot": "use_sidepath",
+        "highway": "primary",
+        "junction": "circular",
+        "lanes": "5",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Großer Stern",
+        "note": "no roundabout: incoming traffic has priority, ring traffic has to give_way",
+        "oneway": "yes",
+        "placement": "middle_of:3",
+        "postal_code": "10557",
+        "ref": "B 2;B 5",
+        "surface": "asphalt",
+        "transit:lanes": "continue|continue|continue|continue;leave|leave",
+        "turn:lanes": "through|through|through|through;slight_right|slight_right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3492312,
+            52.5141619
+          ],
+          [
+            13.3493142,
+            52.5140968
+          ],
+          [
+            13.3494104,
+            52.5140389
+          ],
+          [
+            13.3495182,
+            52.5139891
+          ],
+          [
+            13.3496358,
+            52.5139482
+          ],
+          [
+            13.3497612,
+            52.5139171
+          ],
+          [
+            13.3498921,
+            52.5138962
+          ]
+        ]
+      },
+      "id": "way/30806885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30806886",
+        "bicycle": "no",
+        "foot": "use_sidepath",
+        "highway": "primary",
+        "junction": "circular",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Großer Stern",
+        "note": "no roundabout: incoming traffic has priority, ring traffic has to give_way",
+        "oneway": "yes",
+        "placement": "middle_of:3",
+        "postal_code": "10557",
+        "surface": "asphalt",
+        "transit:lanes": "new_on_left|continue|continue;leave|leave",
+        "turn:lanes": "through|through|through;slight_right|slight_right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3510262,
+            52.514248
+          ],
+          [
+            13.3510715,
+            52.5143175
+          ],
+          [
+            13.351103,
+            52.5143897
+          ],
+          [
+            13.3511201,
+            52.5144637
+          ],
+          [
+            13.3511228,
+            52.5145384
+          ],
+          [
+            13.3511108,
+            52.5146128
+          ],
+          [
+            13.3510845,
+            52.5146858
+          ],
+          [
+            13.3510442,
+            52.5147564
+          ],
+          [
+            13.3509904,
+            52.5148236
+          ]
+        ]
+      },
+      "id": "way/30806886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30825182",
+        "bicycle": "use_sidepath",
+        "foot": "use_sidepath",
+        "highway": "secondary",
+        "junction": "circular",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Strausberger Platz",
+        "note": "Kein Kreisverkehr - B1;B5 hat Vorfahrt vor Ringverkehr",
+        "oneway": "yes",
+        "postal_code": "10243",
+        "source:maxspeed": "DE:urban",
+        "surface": "asphalt",
+        "wikipedia": "de:Strausberger Platz"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4280245,
+            52.5189158
+          ],
+          [
+            13.4279182,
+            52.5188895
+          ],
+          [
+            13.4278148,
+            52.5188604
+          ],
+          [
+            13.4277192,
+            52.5188221
+          ],
+          [
+            13.42766,
+            52.5187861
+          ],
+          [
+            13.4276208,
+            52.5187547
+          ],
+          [
+            13.4275919,
+            52.5187168
+          ]
+        ]
+      },
+      "id": "way/30825182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30825225",
+        "bicycle": "use_sidepath",
+        "foot": "use_sidepath",
+        "highway": "secondary",
+        "junction": "circular",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Strausberger Platz",
+        "note": "Kein Kreisverkehr - B1;B5 hat Vorfahrt vor Ringverkehr",
+        "oneway": "yes",
+        "postal_code": "10243",
+        "source:maxspeed": "DE:urban",
+        "surface": "asphalt",
+        "wikipedia": "de:Strausberger Platz"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4285761,
+            52.5181425
+          ],
+          [
+            13.428718,
+            52.5181767
+          ],
+          [
+            13.4288616,
+            52.5182302
+          ],
+          [
+            13.4289822,
+            52.518319
+          ],
+          [
+            13.4290209,
+            52.518379
+          ]
+        ]
+      },
+      "id": "way/30825225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/37294337",
+        "cycleway:right": "track",
+        "highway": "secondary",
+        "junction": "circular",
+        "lanes": "3",
+        "level": "0",
+        "lit": "yes",
+        "loc_name": "Kotti",
+        "maxspeed": "50",
+        "name": "Kottbusser Tor",
+        "note": "Kein Kreisverkehr - Skalitzer Str. hat Vorfahrt",
+        "oneway": "yes",
+        "postal_code": "10999",
+        "sidewalk": "right",
+        "surface": "asphalt",
+        "turn:lanes": "left;through|through|right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.418691,
+            52.4991605
+          ],
+          [
+            13.418655,
+            52.499205
+          ],
+          [
+            13.4186068,
+            52.4992451
+          ],
+          [
+            13.4185479,
+            52.4992794
+          ],
+          [
+            13.4184801,
+            52.499307
+          ],
+          [
+            13.4184055,
+            52.499327
+          ],
+          [
+            13.4183262,
+            52.4993388
+          ],
+          [
+            13.4182449,
+            52.499342
+          ],
+          [
+            13.4181638,
+            52.4993366
+          ]
+        ]
+      },
+      "id": "way/37294337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/37294338",
+        "cycleway:bicycle": "designated",
+        "cycleway:right": "track",
+        "highway": "secondary",
+        "junction": "circular",
+        "lanes": "3",
+        "level": "0",
+        "lit": "yes",
+        "loc_name": "Kotti",
+        "maxspeed": "50",
+        "name": "Kottbusser Tor",
+        "note": "Kein Kreisverkehr - Skalitzer Str. hat Vorfahrt",
+        "oneway": "yes",
+        "postal_code": "10999",
+        "sidewalk": "right",
+        "surface": "asphalt",
+        "turn:lanes": "left;through|through|right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4180096,
+            52.4988157
+          ],
+          [
+            13.4181037,
+            52.4987885
+          ],
+          [
+            13.4182053,
+            52.4987748
+          ],
+          [
+            13.4183095,
+            52.498775
+          ],
+          [
+            13.4184109,
+            52.4987894
+          ]
+        ]
+      },
+      "id": "way/37294338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/37294339",
+        "cycleway:bicycle": "designated",
+        "cycleway:right": "lane",
+        "highway": "secondary",
+        "junction": "circular",
+        "lanes": "2",
+        "level": "0",
+        "lit": "yes",
+        "loc_name": "Kotti",
+        "maxheight": "default",
+        "maxspeed": "50",
+        "name": "Kottbusser Tor",
+        "note": "Kein Kreisverkehr - Skalitzer Str. hat Vorfahrt",
+        "oneway": "yes",
+        "postal_code": "10999",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4186207,
+            52.4988802
+          ],
+          [
+            13.4186833,
+            52.4989433
+          ],
+          [
+            13.4187171,
+            52.499014
+          ],
+          [
+            13.4187199,
+            52.4990883
+          ],
+          [
+            13.418691,
+            52.4991605
+          ]
+        ]
+      },
+      "id": "way/37294339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/61820398",
+        "bicycle": "no",
+        "foot": "use_sidepath",
+        "highway": "primary",
+        "junction": "circular",
+        "lanes": "5",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Großer Stern",
+        "note": "no roundabout: incoming traffic has priority, ring traffic has to give_way",
+        "oneway": "yes",
+        "placement": "middle_of:3",
+        "postal_code": "10557",
+        "ref": "B 2;B 5",
+        "surface": "asphalt",
+        "transit:lanes": "fork|continue|continue|leave|leave",
+        "turn:lanes": "through|through|through;slight_right|slight_right|slight_right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3495809,
+            52.5150633
+          ],
+          [
+            13.3493892,
+            52.5149787
+          ],
+          [
+            13.3492341,
+            52.5148699
+          ],
+          [
+            13.349146,
+            52.5147746
+          ],
+          [
+            13.3490864,
+            52.5146715
+          ]
+        ]
+      },
+      "id": "way/61820398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/147646845",
+        "cycleway:bicycle": "designated",
+        "cycleway:right:surface": "asphalt",
+        "highway": "primary",
+        "junction": "circular",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Strausberger Platz",
+        "note": "Kein Kreisverkehr - B1;B5 hat Vorfahrt vor Ringverkehr",
+        "oneway": "yes",
+        "postal_code": "10243",
+        "priority_road": "designated",
+        "ref": "B 1;B 5",
+        "sidewalk": "right",
+        "source:maxspeed": "DE:urban",
+        "surface": "asphalt",
+        "turn:lanes": "left;through|through|through",
+        "wikipedia": "de:Strausberger Platz"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4285889,
+            52.5188651
+          ],
+          [
+            13.428505,
+            52.5188886
+          ],
+          [
+            13.4284174,
+            52.5189035
+          ],
+          [
+            13.4283298,
+            52.5189147
+          ],
+          [
+            13.4282526,
+            52.5189212
+          ],
+          [
+            13.4281028,
+            52.5189222
+          ],
+          [
+            13.4280245,
+            52.5189158
+          ]
+        ]
+      },
+      "id": "way/147646845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/148359939",
+        "cycleway:right": "lane",
+        "highway": "secondary",
+        "junction": "circular",
+        "lanes": "3",
+        "level": "0",
+        "lit": "yes",
+        "loc_name": "Kotti",
+        "maxspeed": "50",
+        "name": "Kottbusser Tor",
+        "note": "Kein Kreisverkehr - Skalitzer Str. hat Vorfahrt",
+        "oneway": "yes",
+        "postal_code": "10999",
+        "sidewalk": "right",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4178581,
+            52.4992074
+          ],
+          [
+            13.4178336,
+            52.4991801
+          ],
+          [
+            13.4178141,
+            52.4991513
+          ]
+        ]
+      },
+      "id": "way/148359939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/159155848",
+        "cycleway:bicycle": "designated",
+        "cycleway:right": "lane",
+        "highway": "secondary",
+        "junction": "circular",
+        "lanes": "3",
+        "level": "0",
+        "lit": "yes",
+        "loc_name": "Kotti",
+        "maxspeed": "50",
+        "name": "Kottbusser Tor",
+        "note": "Kein Kreisverkehr - Skalitzer Str. hat Vorfahrt",
+        "oneway": "yes",
+        "postal_code": "10999",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4184109,
+            52.4987894
+          ],
+          [
+            13.4185895,
+            52.4988587
+          ]
+        ]
+      },
+      "id": "way/159155848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/159155852",
+        "cycleway:right": "track",
+        "highway": "secondary",
+        "junction": "circular",
+        "lanes": "3",
+        "level": "0",
+        "lit": "yes",
+        "loc_name": "Kotti",
+        "maxspeed": "50",
+        "name": "Kottbusser Tor",
+        "note": "Kein Kreisverkehr - Skalitzer Str. hat Vorfahrt",
+        "oneway": "yes",
+        "postal_code": "10999",
+        "sidewalk": "right",
+        "surface": "asphalt",
+        "turn:lanes": "left|through|through;right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4180102,
+            52.4992998
+          ],
+          [
+            13.4179518,
+            52.4992739
+          ],
+          [
+            13.4179007,
+            52.4992429
+          ],
+          [
+            13.4178581,
+            52.4992074
+          ]
+        ]
+      },
+      "id": "way/159155852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/159155856",
+        "cycleway:right": "lane",
+        "highway": "secondary",
+        "junction": "circular",
+        "lanes": "3",
+        "level": "0",
+        "lit": "yes",
+        "loc_name": "Kotti",
+        "maxspeed": "50",
+        "name": "Kottbusser Tor",
+        "note": "Kein Kreisverkehr - Skalitzer Str. hat Vorfahrt",
+        "oneway": "yes",
+        "postal_code": "10999",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4185895,
+            52.4988587
+          ],
+          [
+            13.4186207,
+            52.4988802
+          ]
+        ]
+      },
+      "id": "way/159155856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/159155869",
+        "cycleway:right": "track",
+        "highway": "secondary",
+        "junction": "circular",
+        "lanes": "3",
+        "level": "0",
+        "lit": "yes",
+        "loc_name": "Kotti",
+        "maxspeed": "50",
+        "name": "Kottbusser Tor",
+        "note": "Kein Kreisverkehr - Skalitzer Str. hat Vorfahrt",
+        "oneway": "yes",
+        "postal_code": "10999",
+        "sidewalk": "right",
+        "surface": "asphalt",
+        "turn:lanes": "left|through|through;right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4181638,
+            52.4993366
+          ],
+          [
+            13.4180843,
+            52.4993223
+          ],
+          [
+            13.4180102,
+            52.4992998
+          ]
+        ]
+      },
+      "id": "way/159155869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/281751681",
+        "cycleway:bicycle": "designated",
+        "cycleway:right:surface": "asphalt",
+        "highway": "primary",
+        "junction": "circular",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Strausberger Platz",
+        "note": "Kein Kreisverkehr - B1;B5 hat Vorfahrt vor Ringverkehr",
+        "oneway": "yes",
+        "postal_code": "10243",
+        "priority_road": "designated",
+        "ref": "B 1;B 5",
+        "sidewalk": "right",
+        "source:maxspeed": "DE:urban",
+        "surface": "asphalt",
+        "wikipedia": "de:Strausberger Platz"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4276511,
+            52.518392
+          ],
+          [
+            13.4278586,
+            52.5182573
+          ],
+          [
+            13.4279426,
+            52.5182169
+          ],
+          [
+            13.4280448,
+            52.5181767
+          ]
+        ]
+      },
+      "id": "way/281751681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/281956972",
+        "cycleway:bicycle": "designated",
+        "cycleway:right:surface": "asphalt",
+        "highway": "primary",
+        "junction": "circular",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Strausberger Platz",
+        "note": "Kein Kreisverkehr - B1;B5 hat Vorfahrt vor Ringverkehr",
+        "oneway": "yes",
+        "postal_code": "10243",
+        "priority_road": "designated",
+        "ref": "B 1;B 5",
+        "sidewalk": "right",
+        "source:maxspeed": "DE:urban",
+        "surface": "asphalt",
+        "turn:lanes": "left;through|through|through",
+        "wikipedia": "de:Strausberger Platz"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4280448,
+            52.5181767
+          ],
+          [
+            13.4281994,
+            52.5181487
+          ],
+          [
+            13.4283449,
+            52.5181353
+          ],
+          [
+            13.4284638,
+            52.5181336
+          ],
+          [
+            13.4285761,
+            52.5181425
+          ]
+        ]
+      },
+      "id": "way/281956972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/284737262",
+        "bicycle": "use_sidepath",
+        "foot": "use_sidepath",
+        "highway": "secondary",
+        "junction": "circular",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Strausberger Platz",
+        "note": "Kein Kreisverkehr - B1;B5 hat Vorfahrt vor Ringverkehr",
+        "oneway": "yes",
+        "postal_code": "10243",
+        "source:maxspeed": "DE:urban",
+        "surface": "asphalt",
+        "turn:lanes": "left;through|through",
+        "wikipedia": "de:Strausberger Platz"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4275919,
+            52.5187168
+          ],
+          [
+            13.4275754,
+            52.518681
+          ],
+          [
+            13.4275639,
+            52.5186304
+          ],
+          [
+            13.4275638,
+            52.518579
+          ],
+          [
+            13.4275693,
+            52.5185338
+          ],
+          [
+            13.4276247,
+            52.5184351
+          ],
+          [
+            13.4276511,
+            52.518392
+          ]
+        ]
+      },
+      "id": "way/284737262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/284757122",
+        "cycleway:bicycle": "designated",
+        "cycleway:right:surface": "asphalt",
+        "highway": "primary",
+        "junction": "circular",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Strausberger Platz",
+        "note": "Kein Kreisverkehr - B1;B5 hat Vorfahrt vor Ringverkehr",
+        "oneway": "yes",
+        "postal_code": "10243",
+        "priority_road": "designated",
+        "ref": "B 1;B 5",
+        "sidewalk": "right",
+        "source:maxspeed": "DE:urban",
+        "surface": "asphalt",
+        "wikipedia": "de:Strausberger Platz"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4288658,
+            52.5187353
+          ],
+          [
+            13.428745,
+            52.5188038
+          ],
+          [
+            13.4285889,
+            52.5188651
+          ]
+        ]
+      },
+      "id": "way/284757122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/285367758",
+        "bicycle": "use_sidepath",
+        "foot": "use_sidepath",
+        "highway": "secondary",
+        "junction": "circular",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Strausberger Platz",
+        "note": "Kein Kreisverkehr - B1;B5 hat Vorfahrt vor Ringverkehr",
+        "oneway": "yes",
+        "postal_code": "10243",
+        "source:maxspeed": "DE:urban",
+        "surface": "asphalt",
+        "turn:lanes": "left;through|through",
+        "wikipedia": "de:Strausberger Platz"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4290209,
+            52.518379
+          ],
+          [
+            13.4290366,
+            52.518432
+          ],
+          [
+            13.4290343,
+            52.5184728
+          ],
+          [
+            13.4290181,
+            52.5185563
+          ],
+          [
+            13.4289475,
+            52.5186571
+          ],
+          [
+            13.4288658,
+            52.5187353
+          ]
+        ]
+      },
+      "id": "way/285367758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/286149244",
+        "highway": "residential",
+        "junction": "circular",
+        "maxspeed": "30",
+        "noname": "yes",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.2241438,
+            52.4356769
+          ],
+          [
+            13.2241762,
+            52.4356418
+          ],
+          [
+            13.2241907,
+            52.435626
+          ],
+          [
+            13.2242657,
+            52.4355897
+          ],
+          [
+            13.2243578,
+            52.4355736
+          ],
+          [
+            13.2244529,
+            52.4355799
+          ],
+          [
+            13.2245384,
+            52.4356085
+          ],
+          [
+            13.2245991,
+            52.435655
+          ],
+          [
+            13.2246257,
+            52.4357122
+          ],
+          [
+            13.2246213,
+            52.4357342
+          ],
+          [
+            13.224614,
+            52.4357712
+          ],
+          [
+            13.2245666,
+            52.4358224
+          ],
+          [
+            13.2244906,
+            52.4358586
+          ],
+          [
+            13.2243976,
+            52.4358744
+          ],
+          [
+            13.2243018,
+            52.4358673
+          ],
+          [
+            13.2242177,
+            52.4358384
+          ],
+          [
+            13.2241581,
+            52.435792
+          ],
+          [
+            13.2241322,
+            52.4357353
+          ],
+          [
+            13.2241438,
+            52.4356769
+          ]
+        ]
+      },
+      "id": "way/286149244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/288767318",
+        "bicycle": "yes",
+        "cycleway:right": "track",
+        "highway": "primary",
+        "junction": "circular",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "Bersarinplatz",
+        "note": "Kein Kreisverkehr - B96a hat Vorfahrt vor Ringverkehr",
+        "old_name:1895-1947": "Baltenplatz",
+        "oneway": "yes",
+        "postal_code": "10249",
+        "ref": "B 96a",
+        "surface": "asphalt",
+        "wikipedia": "de:Bersarinplatz"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4526337,
+            52.5187162
+          ],
+          [
+            13.452517,
+            52.5185338
+          ],
+          [
+            13.4524943,
+            52.5184724
+          ],
+          [
+            13.4524904,
+            52.5184049
+          ],
+          [
+            13.4525186,
+            52.5183412
+          ],
+          [
+            13.4525656,
+            52.5182772
+          ],
+          [
+            13.4526823,
+            52.518195
+          ],
+          [
+            13.4528159,
+            52.5181371
+          ]
+        ]
+      },
+      "id": "way/288767318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/288767319",
+        "bicycle": "no",
+        "foot": "no",
+        "highway": "secondary",
+        "junction": "circular",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Bersarinplatz",
+        "note": "Kein Kreisverkehr - B96a hat Vorfahrt vor Ringverkehr",
+        "old_name:1895-1947": "Baltenplatz",
+        "oneway": "yes",
+        "postal_code": "10249",
+        "surface": "asphalt",
+        "wikipedia": "de:Bersarinplatz"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4528159,
+            52.5181371
+          ],
+          [
+            13.4528964,
+            52.5181322
+          ],
+          [
+            13.4530169,
+            52.5181301
+          ],
+          [
+            13.4531422,
+            52.5181333
+          ],
+          [
+            13.4532988,
+            52.5181691
+          ],
+          [
+            13.4533722,
+            52.5182006
+          ],
+          [
+            13.4534601,
+            52.518241
+          ]
+        ]
+      },
+      "id": "way/288767319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/288767320",
+        "bicycle": "no",
+        "foot": "no",
+        "highway": "secondary",
+        "junction": "circular",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Bersarinplatz",
+        "note": "Kein Kreisverkehr - B96a hat Vorfahrt vor Ringverkehr",
+        "old_name:1895-1947": "Baltenplatz",
+        "oneway": "yes",
+        "postal_code": "10249",
+        "surface": "asphalt",
+        "wikipedia": "de:Bersarinplatz"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.453239,
+            52.5189963
+          ],
+          [
+            13.4530738,
+            52.5189797
+          ],
+          [
+            13.4529887,
+            52.5189652
+          ],
+          [
+            13.4528829,
+            52.5189281
+          ],
+          [
+            13.4527665,
+            52.5188508
+          ],
+          [
+            13.452723,
+            52.5188002
+          ],
+          [
+            13.4526337,
+            52.5187162
+          ]
+        ]
+      },
+      "id": "way/288767320"
+    }
+  ]
+}
