@@ -24,10 +24,24 @@ const circulars =  new VectorSource({
 
 const roundaboutsLayer = new VectorLayer({
     source: roundabouts,
+    style: new Style({
+        stroke: new Stroke({
+            color: 'darkblue',
+            width: 50
+        })
+    }),
+    opacity: 0.5
 });
                                   
 const circularsLayer = new VectorLayer({
     source: circulars,
+    style: new Style({
+        stroke: new Stroke({
+            color: 'blue',
+            width: 50
+        })
+    }),
+    opacity: 0.5
 });
                                   
 const berlin = olProj.fromLonLat([13.3882, 52.5171]);
