@@ -27,7 +27,7 @@ const roundaboutsLayer = new VectorLayer({
     style: new Style({
         stroke: new Stroke({
             color: 'darkblue',
-            width: 50
+            width: 20
         })
     }),
     opacity: 0.5
@@ -38,7 +38,7 @@ const circularsLayer = new VectorLayer({
     style: new Style({
         stroke: new Stroke({
             color: 'blue',
-            width: 50
+            width: 20
         })
     }),
     opacity: 0.5
