@@ -2,7 +2,7 @@
 
 A map using OpenStreetMap API showing roundabouts in Berlin (Germany).
 
-Currently the reults of the query for roundabouts is hardcoded. This should
+Currently the reults of the query for roundabouts are hard coded. This should
 be changed so that the query is made for the displayed area. That would then
 make this map usable world-wide.
 
